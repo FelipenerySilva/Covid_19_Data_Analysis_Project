@@ -1,6 +1,6 @@
 /*
-Portfolio Project:
-Covid 19 Data Exploration and Visualization on Tableau 
+Covid 19 Project:
+Data Exploration and Visualization on Tableau 
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views and Converting Data types
 
